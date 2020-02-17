@@ -1,0 +1,5 @@
+{
+    "circleci": {
+        "sshRepositoryURL": "git@github.com:vhristov5555/hello-circle.git"
+    }
+}
